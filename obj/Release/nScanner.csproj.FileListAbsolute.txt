@@ -1,0 +1,12 @@
+C:\Users\HDOGAN\source\repos\nScannerWeb\bin\nScanner.dll.config
+C:\Users\HDOGAN\source\repos\nScannerWeb\bin\nScanner.dll
+C:\Users\HDOGAN\source\repos\nScannerWeb\bin\nScanner.pdb
+C:\Users\HDOGAN\source\repos\nScannerWeb\bin\zxing.dll
+C:\Users\HDOGAN\source\repos\nScannerWeb\bin\zxing.xml
+C:\Users\HDOGAN\source\repos\nScannerWeb\obj\Release\nScanner.csproj.AssemblyReference.cache
+C:\Users\HDOGAN\source\repos\nScannerWeb\obj\Release\nScanner.csproj.CoreCompileInputs.cache
+C:\Users\HDOGAN\source\repos\nScannerWeb\obj\Release\nScanner.csproj.CopyComplete
+C:\Users\HDOGAN\source\repos\nScannerWeb\obj\Release\nScanner.dll
+C:\Users\HDOGAN\source\repos\nScannerWeb\obj\Release\nScanner.pdb
+C:\Users\HDOGAN\source\repos\nScannerWeb\bin\zxing.presentation.dll
+C:\Users\HDOGAN\source\repos\nScannerWeb\bin\zxing.presentation.xml

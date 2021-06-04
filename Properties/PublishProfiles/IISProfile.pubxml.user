@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAARzb7tgl43EaLjpzYdoIm4QAAAAACAAAAAAAQZgAAAAEAACAAAAD5hzJie0DFbTXuCpE+5/RXQcHt12Ekoe+AECRYz8inCAAAAAAOgAAAAAIAACAAAAArJ+hOybo94W7YSf+CdgL3mhNCZsd4z+qbFTrrITyqliAAAABi/I9M5LheIziB2OVtCwuKxVmDAbq51dyfSTYG2ey4H0AAAADe4Bu2j1h+j+LFerSQEIrXtdL1Um8Ub8HMZzCCrtxH6TVG8VR4wh88PSalS4XcTwbmLO59JiHNkxhAoUnqLtOm</EncryptedPassword>
+    <_PublishTargetUrl>ftp://kucukpazar.com/nscanner.kucukpazar.com</_PublishTargetUrl>
+    <History>True|2021-06-04T10:08:15.2237075Z;True|2021-06-04T13:07:29.4820912+03:00;True|2021-06-04T12:15:59.6503629+03:00;True|2021-06-04T12:14:22.0197788+03:00;True|2021-06-04T12:09:01.9004690+03:00;True|2021-06-04T11:49:58.1530504+03:00;True|2021-06-04T11:42:19.0627919+03:00;True|2021-06-04T11:37:34.5565191+03:00;True|2021-06-04T11:35:36.6847772+03:00;True|2021-06-04T11:33:42.7962632+03:00;True|2021-06-04T11:32:01.2994579+03:00;</History>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/MessagingToolkit.Barcode.dll">
+      <publishTime>03/30/2017 09:52:06</publishTime>
+    </File>
+    <File Include="bin/nScanner.dll">
+      <publishTime>06/04/2021 13:08:11</publishTime>
+    </File>
+    <File Include="bin/nScanner.pdb">
+      <publishTime>06/04/2021 13:08:11</publishTime>
+    </File>
+    <File Include="bin/zxing.dll">
+      <publishTime>10/08/2020 18:50:18</publishTime>
+    </File>
+    <File Include="bin/zxing.presentation.dll">
+      <publishTime>10/08/2020 18:50:40</publishTime>
+    </File>
+    <File Include="Content/ncode.png">
+      <publishTime>06/03/2021 17:10:45</publishTime>
+    </File>
+    <File Include="Default.aspx">
+      <publishTime>04/06/2021 13:06:18</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>06/03/2021 09:36:14</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>06/04/2021 11:31:36</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
